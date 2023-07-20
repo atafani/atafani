@@ -1,8 +1,7 @@
 
 
 # 💫 About Me:
-Full Stack JavaScript Developer with a passion for coding and problem solving.<br>🌕 Currently building my portfolio projects and sharing the process online.<br>
-
+Full Stack JavaScript Developer with a passion for coding and problem solving.<br>
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tafanianx) 
